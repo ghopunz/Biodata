@@ -1,0 +1,7 @@
+#Tue Dec 06 16:50:15 ICT 2016
+base.0=C\:\\Users\\ghopunz\\AndroidStudioProjects\\Biodata\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dd17e195e318475a7bdd3fb4ac5a49be308914c7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\ghopunz\\AndroidStudioProjects\\Biodata\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a50e290a7626692b61f005bafa177ac99a15e21d\\classes.dex
+base.1=C\:\\Users\\ghopunz\\AndroidStudioProjects\\Biodata\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a50e290a7626692b61f005bafa177ac99a15e21d
+file.0=C\:\\Users\\ghopunz\\AndroidStudioProjects\\Biodata\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dd17e195e318475a7bdd3fb4ac5a49be308914c7\\classes.dex
